@@ -3,8 +3,6 @@ layout: default
 title: "Showreel"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+Showreel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ChLIPgcCKSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
