@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Credits & Resume", url: "https://otown0802.github.io/folder/owenCredits.pdf"} 
+  - {title: "Credits & Resume", file: "Credits.html"} 
   - {title: "Showreel", file: "showreel.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
