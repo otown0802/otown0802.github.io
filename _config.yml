@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/owenCredits.pdf", title: "Credits & Resume"}
-  - {title: "Showreel", file: "/showreel.md"}
+  - {file: "owenCredits.pdf", title: "Credits & Resume"}
+  - {title: "Showreel", file: "showreel.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:otown0802@gmail.com"}
