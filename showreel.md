@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Showreel"
 ---
 
 {% if site.show_excerpts %}
