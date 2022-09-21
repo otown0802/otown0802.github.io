@@ -1,4 +1,4 @@
-title: "Owen Reiser"
+title: "Owen Reiser - cinematographer"
 author: "Owen"
 description: "Natural History Cinematographer"
 permalink: /:title/
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "/owenCredits.pdf", title: "Credits & Resume"}
+  - {title: "Showreel", file: "/showreel.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:otown0802@gmail.com"}
